@@ -1,16 +1,40 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kaushalrahul/portfolio/main/assets/banner.png" />
+</p>
 
-<!--
-**kaushalrahul/kaushalrahul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Rahul Kaushal</h1>
+<h3 align="center">Software Engineer | .NET | Angular | Cloud | AI Systems</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://kaushalrahul.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge">
+  </a>
+  <a href="https://linkedin.com/in/rahul-kaushal2">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge">
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+Software Engineer building scalable SaaS, healthcare and enterprise systems using .NET, Angular, Cloud and AI-driven solutions.
+
+---
+
+## 🛠️ Tech Stack
+.NET Core • ASP.NET • Angular • SQL Server • PostgreSQL • AWS • Azure • Docker • Microservices
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaushalrahul&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushalrahul&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaushalrahul&theme=tokyo-night"/>
+</p>
